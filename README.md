@@ -30,4 +30,4 @@ Application runs from localhost:3000.
 
 # How it works
 
-- [live](https://my-profile-rosy-rho.vercel.app/)
+- [live](https://punk-api-app-blue.vercel.app/)
